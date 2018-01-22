@@ -1,4 +1,4 @@
 # python-caoliu
-Python caoliu downloader
-need proxy
-100 threading
+1.this is a downloader for t66y.com image
+2.run this code need proxy
+3.100 threading
